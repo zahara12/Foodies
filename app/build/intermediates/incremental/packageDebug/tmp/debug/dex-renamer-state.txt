@@ -1,0 +1,7 @@
+#Tue Oct 19 22:46:18 ICT 2021
+base.0=E\:\\KULIAH\\SM 5\\Teknologi dan Aplikasi Mobile\\BISMILLAH PROJECT AKHIR\\ResepMasakan\\Resep Masakan\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\KULIAH\\SM 5\\Teknologi dan Aplikasi Mobile\\BISMILLAH PROJECT AKHIR\\ResepMasakan\\Resep Masakan\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
