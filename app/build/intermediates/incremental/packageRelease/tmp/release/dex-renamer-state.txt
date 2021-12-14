@@ -1,0 +1,4 @@
+#Tue Dec 14 19:21:43 ICT 2021
+base.0=E\:\\KULIAH\\SM 5\\Teknologi dan Aplikasi Mobile\\BACKUP PROJECT - LOGO\\Foodies\\Foodies\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
